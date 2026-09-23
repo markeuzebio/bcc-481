@@ -1,7 +1,8 @@
 # prog-web
 
 - **Nome**: Marcos Vinicio Euzébio
-- **Link para o branch**: https://github.com/markeuzebio/bcc-481/tree/bcc481-django-parte1
+- **Curso**: Ciência da Computação
+- **Disciplina**: Programação Web (BCC-481)
 
 ## Imagem do estado do projeto
 
