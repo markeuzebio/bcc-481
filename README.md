@@ -7,3 +7,6 @@
 ## Imagem do estado do projeto
 
 ![Imagem de uma página Web que mostra onde o projeto parou](./print-boilerplate.png)
+
+## Imagem do painel de admnistrador
+![Imagem do painel de admnistrador](./painel-admin.png)
